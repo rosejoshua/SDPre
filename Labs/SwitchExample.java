@@ -1,7 +1,7 @@
 public class SwitchExample {
   public static void main(String[] args) {
     char grade;
-    grade = 'F';
+    grade = 'A';
 
     switch(grade) {
       case 'A':
