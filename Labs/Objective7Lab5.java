@@ -32,5 +32,7 @@ public class Objective7Lab5 {
         System.out.println("Invalid input, please try again");
       }
     }
+
+    input.close();
   }
 }
